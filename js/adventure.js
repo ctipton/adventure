@@ -18,7 +18,6 @@ switch(user){
             console.log("You are crushed");
         }
         break;
-        
     case 'PAY':
         break;
     case 'RUN':
